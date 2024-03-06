@@ -6,3 +6,4 @@
 | Summarizing Data                       | [Link](./summarizing-data.md "Summarizing Data")                                           |
 | Writing Complex Query                  | [Link](./writing-complex-query.md "Writing Complex Query")                                 |
 | Essential MySQL Functions              | [Link](./essential-mysql-functions.md "Essential MySQL Functions")                         |
+| Views                                  | [Link](./views.md "Views")                                                                 |
