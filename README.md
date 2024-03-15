@@ -8,3 +8,4 @@
 | Essential MySQL Functions              | [Link](./essential-mysql-functions.md "Essential MySQL Functions")                         |
 | Views                                  | [Link](./views.md "Views")                                                                 |
 | Stored Procedures                      | [Link](./stored-procedures.md "Stored Procedures")                                         |
+| Triggers and Events                    | [Link](./triggers-and-events.md "Triggers and Events")                                     |
