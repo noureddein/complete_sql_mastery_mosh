@@ -10,3 +10,4 @@
 | Stored Procedures                      | [Link](./stored-procedures.md "Stored Procedures")                                         |
 | Triggers and Events                    | [Link](./triggers-and-events.md "Triggers and Events")                                     |
 | Transactions                           | [Link](./transactions.md "Transactions")                                                   |
+| Data Types                             | [Link](./data-types.md "Data Types")                                                       |
