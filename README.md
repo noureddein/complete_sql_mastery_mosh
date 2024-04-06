@@ -11,3 +11,4 @@
 | Triggers and Events                    | [Link](./triggers-and-events.md "Triggers and Events")                                     |
 | Transactions                           | [Link](./transactions.md "Transactions")                                                   |
 | Data Types                             | [Link](./data-types.md "Data Types")                                                       |
+| Designing Databases                    | [Link](./designing-databases.md "Designing Databases")                                     |
